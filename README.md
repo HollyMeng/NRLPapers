@@ -28,6 +28,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. ***Relational inductive biases, deep learning, and graph networks.***
 *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gulcehre, Francis Song, Andrew Ballard, Justin Gilmer, George Dahl, Ashish Vaswani, Kelsey Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matt Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
+1. **A survey on network embedding**
+*Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu* 2018. [paper](https://arxiv.org/pdf/1711.08752)
+
 ### Journal and Conference papers:
 
 1. **DeepWalk: Online Learning of Social Representations.**
